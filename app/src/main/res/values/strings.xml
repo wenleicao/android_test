@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Solution Maker</string>
+    <string name="Edit_Text_keyword">NaCl</string>
+    <string name="button_Search">Search</string>
+    <string name="SolutionVolumn">100</string>
+    <string name="VolumnUnit">ML</string>
+    <string name="SearchLabel">Add Chemical By Searching</string>
+    <string name="SolutionVolumnLabel">Solution Volume</string>
+    <string name="Image_add">Image add</string>
+    <string name="button_upgrade">Upgrade</string>
+</resources>
